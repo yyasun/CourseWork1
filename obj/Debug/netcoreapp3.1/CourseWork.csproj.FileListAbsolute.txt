@@ -1,0 +1,13 @@
+C:\Users\BattleStation\source\repos\CourseWork\CourseWork\obj\Debug\netcoreapp3.1\CourseWork.csprojAssemblyReference.cache
+C:\Users\BattleStation\source\repos\CourseWork\CourseWork\obj\Debug\netcoreapp3.1\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\BattleStation\source\repos\CourseWork\CourseWork\obj\Debug\netcoreapp3.1\CourseWork.AssemblyInfoInputs.cache
+C:\Users\BattleStation\source\repos\CourseWork\CourseWork\obj\Debug\netcoreapp3.1\CourseWork.AssemblyInfo.cs
+C:\Users\BattleStation\source\repos\CourseWork\CourseWork\bin\Debug\netcoreapp3.1\CourseWork.exe
+C:\Users\BattleStation\source\repos\CourseWork\CourseWork\bin\Debug\netcoreapp3.1\CourseWork.deps.json
+C:\Users\BattleStation\source\repos\CourseWork\CourseWork\bin\Debug\netcoreapp3.1\CourseWork.runtimeconfig.json
+C:\Users\BattleStation\source\repos\CourseWork\CourseWork\bin\Debug\netcoreapp3.1\CourseWork.runtimeconfig.dev.json
+C:\Users\BattleStation\source\repos\CourseWork\CourseWork\bin\Debug\netcoreapp3.1\CourseWork.dll
+C:\Users\BattleStation\source\repos\CourseWork\CourseWork\bin\Debug\netcoreapp3.1\CourseWork.pdb
+C:\Users\BattleStation\source\repos\CourseWork\CourseWork\obj\Debug\netcoreapp3.1\CourseWork.dll
+C:\Users\BattleStation\source\repos\CourseWork\CourseWork\obj\Debug\netcoreapp3.1\CourseWork.pdb
+C:\Users\BattleStation\source\repos\CourseWork\CourseWork\obj\Debug\netcoreapp3.1\CourseWork.genruntimeconfig.cache
